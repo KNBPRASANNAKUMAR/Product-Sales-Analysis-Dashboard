@@ -1,9 +1,9 @@
-🖼️ **Dashboard Preview**
+## 🖼️ **Dashboard Preview**
 
 <img width="4000" height="2282" alt="image" src="https://github.com/user-attachments/assets/47f1b3ca-2eff-40d6-867c-6ede32f6b954" />
 
 
-📌 **Project Overview**
+## 📌 **Project Overview**
 
 The **Product Sales Analysis Dashboard** is an interactive Power BI project designed to analyze product performance, customer purchasing behavior, regional sales contribution, and production cost efficiency.
 
@@ -13,7 +13,7 @@ The project focuses on transforming raw transactional sales data into actionable
 
 
 
-🎯 **Problem Statement**
+## 🎯 **Problem Statement**
 
 Businesses often struggle to identify high-performing products, customer purchase trends, and profitable sales segments due to scattered transactional data and inefficient reporting systems.
 
@@ -29,7 +29,7 @@ This dashboard was developed to solve the following business challenges:
 - Improve inventory and pricing decision-making
 
 
-🧠 **Business Objectives**
+## 🧠 **Business Objectives**
 
 - Analyze units sold by product category
 - Evaluate customer purchasing behavior
@@ -39,7 +39,7 @@ This dashboard was developed to solve the following business challenges:
 - Build an interactive business intelligence sales dashboard
 
 
-🔍 **Key Insights**
+## 🔍 **Key Insights**
 
 - **Multitool Survival Products** generated the highest unit sales among all product categories.
 - Certain customers contributed significantly higher purchasing volumes compared to others.
@@ -49,9 +49,9 @@ This dashboard was developed to solve the following business challenges:
 - Customer segmentation analysis highlighted high-value buyers contributing to revenue growth.
 
 
-🧹 **Dataset Cleaning & Analysis**
+## 🧹 **Dataset Cleaning & Analysis**
 
-🛠️ **Data Cleaning Process**
+### 🛠️ **Data Cleaning Process**
 
 The dataset underwent preprocessing and transformation to improve analytical quality and reporting accuracy.
 
@@ -64,7 +64,7 @@ Key cleaning operations included:
 - Formatting date fields for time-series analysis
 - Structuring transactional metrics for KPI reporting
 
-📈 **Data Analysis Performed**
+### 📈 **Data Analysis Performed**
 
 The following analytical processes were implemented:
 
@@ -76,7 +76,7 @@ The following analytical processes were implemented:
 - Product profitability analysis
 
 
-⚙️ **Technical Details**
+## ⚙️ **Technical Details**
 
 
  🛠️ Tools Used      : Power BI, Microsoft Excel 
@@ -90,7 +90,7 @@ The following analytical processes were implemented:
  🎯 Purpose         : Sales monitoring and profitability analysis 
 
 
-💡 **Power BI Skills Demonstrated**
+## 💡 **Power BI Skills Demonstrated**
 
 - Sales Data Analysis
 - Power Query Data Cleaning
@@ -102,7 +102,7 @@ The following analytical processes were implemented:
 - Interactive Reporting & Slicers
 
 
-📌 **KPIs & Metrics**
+## 📌 **KPIs & Metrics**
 
 - Total Purchases
 - Total Units Sold
@@ -112,7 +112,7 @@ The following analytical processes were implemented:
 - Customer Purchase Volume
 
 
-📢 **Recommendations**
+## 📢 **Recommendations**
 
 - Increase inventory allocation for high-performing products to avoid stock shortages.
 - Focus marketing campaigns on high-purchasing regions to improve revenue generation.
@@ -121,7 +121,7 @@ The following analytical processes were implemented:
 - Use demand trend analysis to improve operational planning and inventory forecasting.
 
 
-🌍 **Project Impact**
+## 🌍 **Project Impact**
 
 This dashboard enables businesses and analysts to:
 
@@ -132,14 +132,14 @@ This dashboard enables businesses and analysts to:
 - Support data-driven business growth decisions
 
 
-🗂️ **Dataset Source**
+## 🗂️ **Dataset Source**
 
 - **Dataset:** Apocolypse Food Prep - Visualization
 - **Format:**  CSV File
 - **Purpose:** Product sales and profitability analysis
 
 
- 👨‍💻 **Author**
+ ## 👨‍💻 **Author**
 
 **Created by:** KNB PRASANNA KUMAR
 
