@@ -134,8 +134,8 @@ This dashboard enables businesses and analysts to:
 
 🗂️ **Dataset Source**
 
-- **Dataset:** Product Sales Dataset
-- **Format:** CSV File
+- **Dataset:** Apocolypse Food Prep - Visualization
+- **Format:**  CSV File
 - **Purpose:** Product sales and profitability analysis
 
 
